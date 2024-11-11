@@ -1,6 +1,6 @@
 # SCK-IMM-Game
 Interactive Multimedia Winter Project 2024/25
 
-Portal and Pleh! inspired puzzle platformer
+Vampire Survivors inspired wave-based survival bullet hell game
 
-PuzzleRang
+Name TBD
